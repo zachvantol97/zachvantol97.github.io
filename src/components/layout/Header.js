@@ -22,10 +22,10 @@ const Header = () => (
         <AnchorLink className="px-4" href="#market">
           Market
         </AnchorLink>
+        <AnchorLink className="px-4" href="#about">
+          About
+        </AnchorLink>
       </div>
-      {/* <div className="hidden md:block">
-        <Button className="text-sm">Start Free Trial</Button>
-      </div> */}
     </div>
   </header>
 );
