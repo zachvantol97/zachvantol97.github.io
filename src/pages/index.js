@@ -137,7 +137,7 @@ const Index = () => (
       <p className="mt-8 text-xl font-light">
       </p>
       <p className="mt-8">
-        <a href="mailto:zachvantol97@gmail.com"><Button size="xl">Email</Button></a>
+        <a href="mailto:zach@happenstance.cc"><Button size="xl">Email</Button></a>
       </p>
     </section>
   </Layout>
