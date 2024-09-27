@@ -24,7 +24,7 @@ const Index = () => (
       <div className="container mx-auto text-center">
         <h2 className="text-3xl lg:text-5xl font-semibold">The Mission</h2>
         <div className="flex flex-col sm:flex-row sm:-mx-3 mt-12">
-          The 21st-century workforce increasingly consists of job
+          The 21st-Century THIS IS A TEST workforce increasingly consists of job
           hoppers seeking diverse experiences and higher
           compensation, while remote work trends have shifted the
           workspace to anywhere one chooses. These factors
@@ -50,7 +50,7 @@ const Index = () => (
           </p>
         </div>
       }
-      secondarySlot={<img width={"100%"} src="https://img.freepik.com/free-vector/happy-woman-chatting-with-friends-online_74855-14073.jpg" />}
+      secondarySlot={<img width={"100%"} src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/F5_tornado_Elie_Manitoba_2007.jpg/1200px-F5_tornado_Elie_Manitoba_2007.jpg" />}
     />
     <SplitSection
       reverseOrder
